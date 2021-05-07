@@ -1,6 +1,6 @@
 # MuratKeremSapci_yazilimstaji
 Murat Kerem Şapçı-b161200033
---yazilim staji Oracle forms buildier triggers and procedures
+--yazilim staji Oracle forms builder triggers and procedures
 
 --PROCEDURES
 
