@@ -1,6 +1,8 @@
 # MuratKeremSapci_yazilimstaji
 https://drive.google.com/file/d/1JjUHT6Mzii3vHdrfTSwZG2xbbYPj75-e/view?usp=sharing (kodlu ve kodsuz anlatım videosu için)
+
 Murat Kerem Şapçı-b161200033
+
 --yazilim staji plsql Oracle forms builder triggers and procedures
 
 --PROCEDURES
